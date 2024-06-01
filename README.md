@@ -12,15 +12,15 @@ Este repositório contém exemplos e exercícios que exploram diversos aspectos 
 ### Execução
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/htaluss/explorando-javascript.git)
 ```
 2. Navegue até o diretório do projeto:
 ```
-cd seu-repositorio
+cd repositorio
 ```
 3. Execute o código (se estiver usando Node.js):
 ```
-node seu-arquivo.js
+node .\arquivo.js
 ```
 
 ## 📄 Licença
